@@ -1,0 +1,6 @@
+fruits = ["apple", "banana", "cherry", "date", "elderberry", "fig", "grape", "honeydew", "kiwi", "lemon", "mango", "nectarine", "orange", "papaya", "quince", "raspberry", "strawberry", "tangerine", "ugli fruit", "vanilla bean", "watermelon", "xigua", "yellow passion fruit", "zucchini", "apricot", "blackberry", "cantaloupe", "dragonfruit", "eggplant", "feijoa", "grapefruit", "huckleberry", "jackfruit", "kumquat", "lime", "mulberry", "nectarines", "olive", "persimmon", "quararibea cordata", "rambutan", "soursop", "tamarind", "ugni fruit", "voavanga", "wolfberry", "ximenia caffra", "yumberry", "ziziphus mauritiana", "ackee", "bilberry", "clementine", "damson", "elderflower", "finger lime", "grumichama", "honeyberry", "imbe", "jabuticaba", "kiwano", "longan", "miracle fruit", "naranjilla", "osage orange", "pitanga", "quararibea cordata fruit", "ribes nigrum", "santol", "tangelo", "ugli fruit juice", "vaccinium corymbosum", "white currant", "xylocarpus granatum fruit", "yunnan hackberry fruit", "zinfandel grape", "acerola", "black sapote", "cupuacu", "durian", "entawak", "fingered citron", "gac fruit", "hawthorn berry", "indian fig fruit", "jostaberry", "kaffir lime"]
+i = 0
+for item in fruits:
+
+    print(i, ".", item  ," is a fruit.")
+    i += 1
