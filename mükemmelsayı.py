@@ -1,6 +1,7 @@
 while True:
 
     try:
+    
         n = int(input("Lütfen bir sayı giriniz: "))
 
         if n < 0:
